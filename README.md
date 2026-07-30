@@ -2,9 +2,9 @@
 
 Українська локалізація для гри Silenced. У цьому репозиторії ви знайдете файли різних версій перекладу, скриншоти та інструкцію зі встановлення.
 
-### Наразі найактуальніша версія - **0.1.78**. 
+### Наразі найактуальніша версія - **0.2.179**. 
 
-Завантажити її можна [тут](https://github.com/elik7777/GameSilencedUkrainianLanguage/raw/main/Version%20language/0.1.78/Game.rgss3a).
+Завантажити її можна [тут](https://github.com/elik7777/GameSilencedUkrainianLanguage/raw/main/Version%20language/0.2.179/Game.rgss3a).
 
 Файл шрифту [тут](https://github.com/elik7777/GameSilencedUkrainianLanguage/raw/main/Type/NotoSans.ttf).                  
 
@@ -41,7 +41,8 @@
 
 | Версія | Тип версії | Актуальна |
 | :---: | :---: | :---: |
-| [0.1.78](https://github.com/elik7777/GameSilencedUkrainianLanguage/raw/main/Version%20language/0.1.78/Game.rgss3a)  | Мод | + |
+| [0.2.179](https://github.com/elik7777/GameSilencedUkrainianLanguage/raw/main/Version%20language/0.2.179/Game.rgss3a)  | Мод | + |
+| [0.1.78](https://github.com/elik7777/GameSilencedUkrainianLanguage/raw/main/Version%20language/0.1.78/Game.rgss3a)  | Мод | - |
 
 ---
 
@@ -58,5 +59,9 @@
   <img src="Screenshot/game/Screenshot_2.png" width="100%">
   <img src="Screenshot/game/Screenshot_3.png" width="100%">
   <img src="Screenshot/game/Screenshot_4.png" width="100%">
+  <img src="Screenshot/game/Screenshot_5.png" width="100%">
+  <img src="Screenshot/game/Screenshot_6.png" width="100%">
+  <img src="Screenshot/game/Screenshot_7.png" width="100%">
+  <img src="Screenshot/game/Screenshot_8.png" width="100%">
 </details>
 
