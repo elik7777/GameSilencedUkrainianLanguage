@@ -55,6 +55,13 @@
   <summary>Переглянути скриншоти</summary>
   <span id="screenshots"></span>
   <br>
-
+  <img src="Screenshot/game/Screenshot_1.png" width="100%">
+  <img src="Screenshot/game/Screenshot_2.png" width="100%">
+  <img src="Screenshot/game/Screenshot_3.png" width="100%">
+  <img src="Screenshot/game/Screenshot_4.png" width="100%">
+  <img src="Screenshot/game/Screenshot_5.png" width="100%">
+  <img src="Screenshot/game/Screenshot_6.png" width="100%">
+  <img src="Screenshot/game/Screenshot_7.png" width="100%">
+  <img src="Screenshot/game/Screenshot_8.png" width="100%">
 </details>
 
