@@ -39,10 +39,10 @@
 
 ## Таблиця версій
 
-| Версія | Тип версії | Актуальна |
-| :---: | :---: | :---: |
-| [0.2.179](https://github.com/elik7777/GameSilencedUkrainianLanguage/raw/main/Version%20language/0.2.179/Game.rgss3a)  | Мод | + |
-| [0.1.78](https://github.com/elik7777/GameSilencedUkrainianLanguage/raw/main/Version%20language/0.1.78/Game.rgss3a)  | Мод | - |
+| Версія | Актуальна |
+| :---: | :---: |
+| [0.2.179](https://github.com/elik7777/GameSilencedUkrainianLanguage/raw/main/Version%20language/0.2.179/Game.rgss3a)  | + |
+| [0.1.78](https://github.com/elik7777/GameSilencedUkrainianLanguage/raw/main/Version%20language/0.1.78/Game.rgss3a)  | - |
 
 ---
 
